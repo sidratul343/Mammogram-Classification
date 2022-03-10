@@ -11,6 +11,7 @@ Therefore, this is a multi-class classification problem. The images containes ar
 
 
 **Image Processing**
+
 Several algorithms are used for artifacts and noise removal and pixel enhancement.
 
 **Artifacts Removal**
