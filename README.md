@@ -2,7 +2,11 @@
 
 Paper link : https://www.mdpi.com/2079-7737/10/12/1347
 
-In this study, we will be showcasing a computer vision classification problem using mammograms. The dataset we have used can be downloaded from https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM. It consists of four classes:
+In this study, we will be showcasing a computer vision classification problem using mammograms. All the codes are implemented on Jupyter Notebook. However, you can use Google Colaboratory as well. You might want to give a look on the file named 'How to use Goggle Colab'.
+
+The dataset we have used can be downloaded from https://drive.google.com/drive/u/1/folders/1pGTIJOsTOG4IDHXDy1ipyWkI2OGnZztV
+
+The original dataset link: https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM. It consists of four classes:
 
 * Benign Calcification
 * Benign Mass
